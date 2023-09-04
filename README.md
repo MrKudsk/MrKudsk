@@ -2,7 +2,9 @@
 - 👀 I’m interested in 
   - Rust
   - Python
-  - C and C++  
+  - C and C++
+  - TypeScript
+  - Database  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
