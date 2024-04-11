@@ -9,7 +9,7 @@
   - Rust
   - AL
 - 💞️ I’m looking to collaborate on ...
-  - Advent of code 2023
+  - Advent of code 2024
 - 📫 How to reach me ...
   - E-mail: kim.kudsk📨gmail.com
 
